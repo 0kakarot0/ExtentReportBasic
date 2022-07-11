@@ -34,9 +34,7 @@ Creating Basic Template for the extent spark report, you can use this in your pr
 
 #### Installation
 
-
-
-
+- Fork this project into your gitHub Repo or clone it.
 
 ---
 
