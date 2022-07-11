@@ -1,11 +1,5 @@
 # ExtentReportBasic
-How to Create Extent Spark Report
-
-# Read Me Template
-
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
+> How to Create Extent Spark Report
 
 ---
 
@@ -22,14 +16,17 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Creating Basic Template for the extent spark report, you can use this in your project, you just need to modify the test data accordingly 
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- [Java](https://www.java.com/en/)
+- [TestNG](https://testng.org/doc/)
+- [Selnium Webdriver](https://www.selenium.dev/maven/)
+- [WebDriverManager](https://github.com/bonigarcia/webdrivermanager)
+- [Extent Reports](https://www.extentreports.com/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#ExtentReportBasic)
 
 ---
 
@@ -39,17 +36,12 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 
 
-#### API Reference
 
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+[Back To The Top](#ExtentReportBasic)
 
 ---
 
@@ -57,7 +49,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2022] [Ahtisham Ilyas]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -77,13 +69,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#ExtentReportBasic)
 
 ---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Linkedin - [@ahtisham](https://www.linkedin.com/in/ahtisham-ilyas-62193768/)
 
-[Back To The Top](#read-me-template)
+
+[Back To The Top](#ExtentReportBasic)
