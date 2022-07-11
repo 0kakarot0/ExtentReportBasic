@@ -1,4 +1,4 @@
-# ExtentReportBasic
+## ExtentReports 5 [![Join the chat at https://gitter.im/anshooarora/extentreports](https://badges.gitter.im/anshooarora/extentreports.svg)](https://gitter.im/anshooarora/extentreports?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Maven Central](https://img.shields.io/maven-central/v/com.aventstack/extentreports.svg?maxAge=300)](http://search.maven.org/#search|ga|1|g:"com.aventstack") [![Build Status](https://travis-ci.com/extent-framework/extentreports-java.svg?branch=master)](https://travis-ci.com/extent-framework/extentreports-java) [![CodeFactor](https://www.codefactor.io/repository/github/extent-framework/extentreports-java/badge)](https://www.codefactor.io/repository/github/extent-framework/extentreports-java) [![codecov](https://codecov.io/gh/extent-framework/extentreports-java/branch/master/graph/badge.svg)](https://codecov.io/gh/extent-framework/extentreports-java)
 > How to Create Extent Spark Report
 
 ---
